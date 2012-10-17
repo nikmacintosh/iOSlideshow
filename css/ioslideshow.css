@@ -1,0 +1,22 @@
+.ioslideshow {
+	background: transparent 0 0 url(../img/iphone5.png) no-repeat;
+  height: 806px;
+	overflow: hidden;
+	position: relative;
+	width: 386px;
+}
+
+.ioslideshow > li {
+  height: 568px;
+	left: 33px;
+	margin: 0;
+	position: absolute;
+	top: 119px;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 320px;
+}
