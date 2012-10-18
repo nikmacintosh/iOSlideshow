@@ -1,6 +1,7 @@
 .ioslideshow {
 	background: transparent 0 0 url(../img/iphone5.png) no-repeat;
   height: 806px;
+  list-style: none;
 	overflow: hidden;
 	position: relative;
 	width: 386px;
