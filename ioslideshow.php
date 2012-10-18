@@ -15,6 +15,8 @@ class iOSlideshow {
 		global $post;
 		$args = array(
 			'numberposts' => -1,
+			'order' => 'ASC',
+			'orderby' => 'title',
 			'post_parent' => $post->ID,
 			'post_status' => null,
 			'post_type' => 'attachment'
